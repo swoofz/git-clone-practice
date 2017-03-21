@@ -15,3 +15,8 @@ body {
 p {
   color: purple;
 }
+footer {
+  text-align: center;
+  color: lime;
+  font-size: 22px;
+}
